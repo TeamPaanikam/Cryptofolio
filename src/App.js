@@ -4,7 +4,7 @@ import Table from "./Table";
 import Form from "./Form";
 
 function App() {
-  let [coins, changeCoins] = useState(JSON.parse(localStorage.getItem("coins")));
+  let [coins, changeCoins] = useState(JSON.parse(localStorage.getItem("coins")) || []);
   let [allCoins, setAllCoins] = useState([]);
   let [lastResult, changeLastResult] = useState();
 
