@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cryptofolio/static/css/main.0bab2eba.chunk.css",
+    "main.js": "/cryptofolio/static/js/main.39e0c307.chunk.js",
+    "main.js.map": "/cryptofolio/static/js/main.39e0c307.chunk.js.map",
+    "runtime-main.js": "/cryptofolio/static/js/runtime-main.ccb4ccbc.js",
+    "runtime-main.js.map": "/cryptofolio/static/js/runtime-main.ccb4ccbc.js.map",
+    "static/js/2.ff58886b.chunk.js": "/cryptofolio/static/js/2.ff58886b.chunk.js",
+    "static/js/2.ff58886b.chunk.js.map": "/cryptofolio/static/js/2.ff58886b.chunk.js.map",
+    "static/js/3.ccf23b16.chunk.js": "/cryptofolio/static/js/3.ccf23b16.chunk.js",
+    "static/js/3.ccf23b16.chunk.js.map": "/cryptofolio/static/js/3.ccf23b16.chunk.js.map",
+    "index.html": "/cryptofolio/index.html",
+    "static/css/main.0bab2eba.chunk.css.map": "/cryptofolio/static/css/main.0bab2eba.chunk.css.map",
+    "static/js/2.ff58886b.chunk.js.LICENSE.txt": "/cryptofolio/static/js/2.ff58886b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ccb4ccbc.js",
+    "static/js/2.ff58886b.chunk.js",
+    "static/css/main.0bab2eba.chunk.css",
+    "static/js/main.39e0c307.chunk.js"
+  ]
+}
