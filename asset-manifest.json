@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/Cryptofolio/static/css/main.0bab2eba.chunk.css",
-    "main.js": "/Cryptofolio/static/js/main.39e0c307.chunk.js",
-    "main.js.map": "/Cryptofolio/static/js/main.39e0c307.chunk.js.map",
-    "runtime-main.js": "/Cryptofolio/static/js/runtime-main.ff38b568.js",
-    "runtime-main.js.map": "/Cryptofolio/static/js/runtime-main.ff38b568.js.map",
-    "static/js/2.ff58886b.chunk.js": "/Cryptofolio/static/js/2.ff58886b.chunk.js",
-    "static/js/2.ff58886b.chunk.js.map": "/Cryptofolio/static/js/2.ff58886b.chunk.js.map",
-    "static/js/3.ccf23b16.chunk.js": "/Cryptofolio/static/js/3.ccf23b16.chunk.js",
-    "static/js/3.ccf23b16.chunk.js.map": "/Cryptofolio/static/js/3.ccf23b16.chunk.js.map",
+    "main.js": "/Cryptofolio/static/js/main.af650593.chunk.js",
+    "main.js.map": "/Cryptofolio/static/js/main.af650593.chunk.js.map",
+    "runtime-main.js": "/Cryptofolio/static/js/runtime-main.34aa0526.js",
+    "runtime-main.js.map": "/Cryptofolio/static/js/runtime-main.34aa0526.js.map",
+    "static/js/2.4547e23d.chunk.js": "/Cryptofolio/static/js/2.4547e23d.chunk.js",
+    "static/js/2.4547e23d.chunk.js.map": "/Cryptofolio/static/js/2.4547e23d.chunk.js.map",
+    "static/js/3.290df9cb.chunk.js": "/Cryptofolio/static/js/3.290df9cb.chunk.js",
+    "static/js/3.290df9cb.chunk.js.map": "/Cryptofolio/static/js/3.290df9cb.chunk.js.map",
     "index.html": "/Cryptofolio/index.html",
     "static/css/main.0bab2eba.chunk.css.map": "/Cryptofolio/static/css/main.0bab2eba.chunk.css.map",
-    "static/js/2.ff58886b.chunk.js.LICENSE.txt": "/Cryptofolio/static/js/2.ff58886b.chunk.js.LICENSE.txt"
+    "static/js/2.4547e23d.chunk.js.LICENSE.txt": "/Cryptofolio/static/js/2.4547e23d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ff38b568.js",
-    "static/js/2.ff58886b.chunk.js",
+    "static/js/runtime-main.34aa0526.js",
+    "static/js/2.4547e23d.chunk.js",
     "static/css/main.0bab2eba.chunk.css",
-    "static/js/main.39e0c307.chunk.js"
+    "static/js/main.af650593.chunk.js"
   ]
 }
