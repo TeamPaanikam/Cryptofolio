@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Cryptofolio/static/css/main.0bab2eba.chunk.css",
-    "main.js": "/Cryptofolio/static/js/main.af650593.chunk.js",
-    "main.js.map": "/Cryptofolio/static/js/main.af650593.chunk.js.map",
+    "main.js": "/Cryptofolio/static/js/main.d580aa78.chunk.js",
+    "main.js.map": "/Cryptofolio/static/js/main.d580aa78.chunk.js.map",
     "runtime-main.js": "/Cryptofolio/static/js/runtime-main.34aa0526.js",
     "runtime-main.js.map": "/Cryptofolio/static/js/runtime-main.34aa0526.js.map",
     "static/js/2.4547e23d.chunk.js": "/Cryptofolio/static/js/2.4547e23d.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.34aa0526.js",
     "static/js/2.4547e23d.chunk.js",
     "static/css/main.0bab2eba.chunk.css",
-    "static/js/main.af650593.chunk.js"
+    "static/js/main.d580aa78.chunk.js"
   ]
 }
