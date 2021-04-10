@@ -19,7 +19,7 @@ function App() {
     };
 
     fetch(
-      "https://cors-proxy-cryptofolio.herokuapp.com/fetch/https://api.wazirx.com/api/v2/tickers",
+      "https://cors-proxy-cryptofolio.herokuapp.com/https://api.wazirx.com/api/v2/tickers",
       requestOptions
     )
       .then((response) => response.json())
